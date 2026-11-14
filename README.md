@@ -150,7 +150,3 @@ The program displays:
 - Only a limited number of alternative paths are considered.
 - The proposed algorithm is a heuristic and does not guarantee a globally optimal solution.
 
-
-## License
-
-This project is available for educational and research purposes.
